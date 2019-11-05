@@ -1,7 +1,7 @@
 from django.db import models
 
 
-class TimeStampeModel(models.Model):
+class TimeStampedModel(models.Model):
 
     """ time Stamped Model """
 

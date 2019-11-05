@@ -1,0 +1,17 @@
+[33mcommit 699e417d3a99db7f0e61cf367e4f1c2145a2efd9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: unknown <gidwn2030@gmail.com>
+Date:   Mon Nov 4 19:26:24 2019 +0900
+
+    #4.1 Room Model part One
+
+[33mcommit aeaabcf947efbc6caa70822c8b3032418f110acb[m
+Author: unknown <gidwn2030@gmail.com>
+Date:   Wed Oct 30 21:48:27 2019 +0900
+
+    models.py
+
+[33mcommit 3d15f3e090202660d48173cbf992539ac17357c2[m
+Author: unknown <gidwn2030@gmail.com>
+Date:   Sat Oct 26 12:24:20 2019 +0900
+
+    party

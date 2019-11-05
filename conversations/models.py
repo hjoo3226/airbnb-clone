@@ -1,8 +1,5 @@
 from django.db import models
 
 
-class Room(models.Models):
+# Create your models here.
 
-    """ Room Model Definition """
-
-    pass
